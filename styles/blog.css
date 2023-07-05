@@ -1,5 +1,10 @@
 div{
-    background-color: rgb(255, 99, 71);
+    background-color: coral;
     padding: 20px;
     margin-bottom: 10px;
+    border-radius: 10px 40px;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+p,ol,li{
+    background-color: whitesmoke;
 }
